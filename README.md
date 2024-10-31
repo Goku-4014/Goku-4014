@@ -21,7 +21,7 @@
 <a href="https://instagram.com/manishchauhan_1306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishchauhan_1306" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bot_477" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bot_477" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mightymanish8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mightymanish8" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/goku-4014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="goku-4014" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/goku-4014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="goku-4014" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/goku_4014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="goku_4014" height="30" width="40" /></a>
 </p>
 
